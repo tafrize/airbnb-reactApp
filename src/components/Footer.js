@@ -9,13 +9,7 @@ function Footer(){
 
         <div className="footer">
             <p> @ copy right 2022 ANLI SAID Tafrize</p>
-            <p>from my compagny train</p>
-         
-         
-
-         
-
-           
+            
         </div>
     ) 
 

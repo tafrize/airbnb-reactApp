@@ -1,7 +1,10 @@
 .banner{
-    background: url("https://www.bontraveler.com/wp-content/uploads/2022/05/ezgif-1-57ce98a4a4-1024x683.jpeg") center center;
+    background: url("https://a0.muscache.com/im/pictures/prohost-api/Hosting-50441874/original/6c51c22a-3f97-43ff-980f-4bfc6e38789d.jpeg?im_w=720") center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     position:relative;
-    height: 70vh;
+    height: 75vh;
+    object-fit: contain;
 }
 .banner_info{
     background-color:black;
