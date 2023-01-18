@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../WEB_ING1/maison-de-jungle"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
